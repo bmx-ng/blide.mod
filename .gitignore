@@ -1,0 +1,7 @@
+.bmx
+*.bak
+*.x64.a
+*.x64.i
+*.x86.a
+*.x86.i
+commands.html
